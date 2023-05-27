@@ -1,0 +1,17 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  color: #000000;
+  font-family: 'Quicksand', sans-serif;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.invalid {
+  border: 2px solid #ff0000;
+}
